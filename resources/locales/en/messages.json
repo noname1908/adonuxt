@@ -1,0 +1,12 @@
+{
+  "request_successful": "Request successful!",
+  "request_failed": "Request failed!",
+  "create_successful": "Create successful!",
+  "create_failed": "Create failed!",
+  "update_successful": "Update successful!",
+  "update_failed": "Update failed!",
+  "delete_successful": "Delete successful!",
+  "delete_failed": "Delete failed!",
+  "total": "Cart total is {total, number, usd}",
+  "norecord": "No record found"
+}

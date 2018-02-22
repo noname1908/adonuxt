@@ -1,0 +1,16 @@
+{
+  "required": "Vui lòng nhập {attr}.",
+  "email": "Email không đúng định dạng.",
+  "string": "{attr} phải là kiểu chuỗi.",
+  "min.numeric": "{attr} có tối thiểu {min} số.",
+  "min.file": "{attr} có dung lượng tối thiểu {min} kilobytes.",
+  "min.string": "{attr} có ít nhất {min} ký tự.",
+  "min.array": "{attr} có ít nhất {min} phần tử.",
+  "max.numeric": "{attr} có tối đa {max} số.",
+  "max.file": "{attr} có dung lượng tối đa {max} kilobytes.",
+  "max.string": "{attr} có tối đa {max} ký tự.",
+  "max.array": "{attr} có tối đa {max} phần tử.",
+  "image": "{attr} phải là hình ảnh.",
+  "unique": "{attr} đã tồn tại.",
+  "confirmed": "Xác nhận {attr} không đúng"
+}

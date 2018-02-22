@@ -1,0 +1,12 @@
+{
+  "request_successful": "Yêu cầu thành công!",
+  "request_failed": "Yêu cầu thất bại!",
+  "create_successful": "Tạo mới thành công!",
+  "create_failed": "Tạo mới không thành công!",
+  "update_successful": "Cập nhật thành công!",
+  "update_failed": "Cập nhật không thành công!",
+  "delete_successful": "Xóa thành công!",
+  "delete_failed": "Xóa không thành công!",
+  "total": "Tổng giỏ hàng là {total, number, usd}",
+  "norecord": "Không có dữ liệu"
+}
